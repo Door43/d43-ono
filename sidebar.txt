@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ono:home|Door43 (ono)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ono|d43-ono repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ono/archive/master.zip|d43-ono.zip]]
+
+**Recent Changes**
+{{changes>ns = ono}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ono|Ethnologue data]]
+
